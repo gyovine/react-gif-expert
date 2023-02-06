@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Prueba snap prueba con prop-types 1`] = `
+<div>
+  <div
+    class="Card"
+  >
+    <img
+      alt="chicken"
+      src="www.ricken.com"
+    />
+    <p>
+      chicken
+    </p>
+  </div>
+</div>
+`;
